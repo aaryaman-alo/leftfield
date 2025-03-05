@@ -13,7 +13,7 @@ const ServicesPreview = () => {
             <div>
               <h3 className="text-5xl font-bold mb-6">Trade Development</h3>
               <p className="text-xl mb-6">
-                We help our clients acquire new customers, expand their distribution channels, and enter new markets.
+                We work with clients to identify new global markets for their products and help them successfully sell into those geographies.
               </p>
               <Link 
                 href="/services" 
