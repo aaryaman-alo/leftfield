@@ -82,12 +82,13 @@ const TeamPreview = () => {
         </div>
         
         <div className="text-center mt-8">
-          <Link 
-            href="/team" 
-            className="inline-block px-8 py-3 border-2 border-white text-white font-medium text-lg hover:bg-white hover:text-blue-950 transition-colors duration-300"
+          <button 
+            className="inline-block px-8 py-3 border-2 border-white text-white font-medium text-lg hover:text-blue-950 hover:bg-white"
           >
+            <a href="/team">
             Learn More About Us
-          </Link>
+            </a>
+          </button>
         </div>
       </div>
     </div>
