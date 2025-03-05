@@ -6,9 +6,9 @@ const BusinessDevelopment = () => {
     <div className="py-16 px-6">
       <div className="container mx-auto max-w-6xl">
         <div className="bg-[#FFF8E8] p-12 mb-16">
-          <div className="max-w-xs mx-auto mb-10">
-            <div className="border border-black">
-              <div className="bg-[#FFDD66] p-8 flex justify-center items-center">
+          <div className="max-w-[640px] mx-auto mb-10">
+            <div className="border border-black rounded-xl overflow-hidden">
+              <div className="bg-gradient-to-br from-yellow-300 to-yellow-500 p-8 flex justify-center items-center">
                 <span className="text-7xl font-black">$750M</span>
               </div>
               <div className="bg-white p-4 flex justify-center items-center">
