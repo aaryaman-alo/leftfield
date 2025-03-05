@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import TeamHeader from '@/components/TeamHeader';
 import TeamMembers from '@/components/TeamMembers';
+import Advisors from '@/components/Advisors';
 
 export default function Team() {
   return (
@@ -19,6 +20,7 @@ export default function Team() {
       <Navbar />
       <TeamHeader />
       <TeamMembers />
+      <Advisors />
       <Footer />
     </div>
   );

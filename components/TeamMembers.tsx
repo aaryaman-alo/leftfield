@@ -37,7 +37,7 @@ const TeamMembers = () => {
             
             <div className="mt-6">
               <Link 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/mohan-ramani-4441b8/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block"
@@ -87,7 +87,7 @@ const TeamMembers = () => {
             
             <div className="mt-6">
               <Link 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/marcus-matthews/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block"

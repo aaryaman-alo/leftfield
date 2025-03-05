@@ -33,20 +33,7 @@ const BusinessDevelopment = () => {
             Leftfield is an expert in supporting businesses who wish to grow their exports and expand into new markets. We offer a range of services, which are tailored to the needs and objectives of the client.
           </p>
           
-          <p className="text-xl">
-            Leftfield works with businesses to establish strategic partners within a chosen market. These include distributors with existing networks, whom client companies can build strategic sales channels and drive volume growth. For physical product businesses, we identify and introduce suitable manufacturers who can locally produce and supply the target market.
-          </p>
-          
-          <p className="text-xl">
-            Leftfield also works with business to secure signature customers in the target market. These customers provide important regional market validation for the products of client companies. We build upon signature customer successes by developing strategic sales opportunities that deliver large revenue results.
-          </p>
-          
-          <h2 className="text-4xl font-bold mt-20 mb-10">Business Development</h2>
-          
-          <p className="text-xl">
-            Leftfield works with businesses to develop their go-to-market capacity and prepare them for expansion. We offer services that de-risk and facilitate the entry of businesses into new markets.
-          </p>
-          
+
           <p className="text-xl">
             Leftfield develops go-to-market strategies that are highly bespoke to the client companies and their export products, relative to their chosen market. We evaluate existing documentation and product insights to determine which markets would provide the greatest opportunity to client businesses. We then optimize the go-to-market strategy around the client and the strengths of their product.
           </p>
@@ -54,6 +41,21 @@ const BusinessDevelopment = () => {
           <p className="text-xl">
             Leftfield also works with businesses to enhance their capacity to support a market expansion. We do this by closely collaborating with executive teams to manage new interfaces and develop competencies. We also advise about the refinement of product offerings, and help to broker the placement of capital that may be required to support growth operations.
           </p>
+          
+          <h2 className="text-4xl font-bold mt-20 mb-10">Business Development</h2>
+          
+          <p className="text-xl">
+            Leftfield works with businesses to develop their go-to-market capacity and prepare them for expansion. We offer services that de-risk and facilitate the entry of businesses into new markets.
+          </p>
+
+          <p className="text-xl">
+            Leftfield works with businesses to establish strategic partners within a chosen market. These include distributors with existing networks, whom client companies can build strategic sales channels and drive volume growth. For physical product businesses, we identify and introduce suitable manufacturers who can locally produce and supply the target market.
+          </p>
+          
+          <p className="text-xl">
+            Leftfield also works with business to secure signature customers in the target market. These customers provide important regional market validation for the products of client companies. We build upon signature customer successes by developing strategic sales opportunities that deliver large revenue results.
+          </p>
+
         </div>
       </div>
     </div>

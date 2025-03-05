@@ -24,7 +24,7 @@ const TeamPreview = () => {
             <div>
                 <h3 className="text-3xl font-bold mb-4">Mohan Ramani</h3>
                 <Link 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/mohan-ramani-4441b8/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block"
@@ -59,7 +59,7 @@ const TeamPreview = () => {
             <div>
             <h3 className="text-3xl font-bold mb-4">Marcus Matthews</h3>
             <Link 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/marcus-matthews/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block"
