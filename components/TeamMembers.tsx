@@ -31,7 +31,7 @@ const TeamMembers = () => {
                 Over the last decade, he has helped deliver significant enterprise value for clients by developing significant business development opportunities with large enterprise customers, establishing effective distribution channels in new markets, and expanding their market share in their existing markets.
               </p>
               <p>
-                As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients' objectives.
+                As Founder and Managing Director at Leftfield Services, he brings all of his experience, knowledge and relationships to bear to achieve our clients&apos; objectives.
               </p>
             </div>
             
