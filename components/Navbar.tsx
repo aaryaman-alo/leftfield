@@ -83,7 +83,7 @@ const Navbar = () => {
             Team
           </Link>
           <Link 
-            href="mailto:mohan@leftfield-services.com" 
+            href="mailto:hello@leftfield-services.com" 
             className={`font-medium text-lg ${
               isScrolled ? 'text-gray-900' : 'text-gray-900'
             } hover:text-gray-600`}
@@ -115,7 +115,7 @@ const Navbar = () => {
             Team
           </Link>
           <Link 
-            href="mailto:mohan@leftfield-services.com" 
+            href="mailto:hello@leftfield-services.com" 
             className="font-medium text-lg text-gray-900 hover:text-gray-600 py-2"
             onClick={() => setIsMenuOpen(false)}
           >
