@@ -5,9 +5,8 @@ import Link from 'next/link';
 
 const Advisors = () => {
   return (
-    <div className="py-20 px-6">
+    <div className="pb-20 px-6">
       <div className="container mx-auto max-w-6xl">
-        <h2 className="text-5xl font-bold mb-16">Advisors</h2>
         
         {/* Sanjay Ram */}
         <div className="grid md:grid-cols-5 gap-10 mb-20">

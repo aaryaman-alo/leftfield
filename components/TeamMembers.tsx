@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const TeamMembers = () => {
   return (
-    <div className="py-20 px-6">
+    <div className="pt-20 px-6">
       <div className="container mx-auto max-w-6xl">
         <h2 className="text-5xl font-bold mb-16">The Leftfield Team</h2>
         

@@ -53,7 +53,7 @@ const BusinessDevelopment = () => {
           </p>
           
           <p className="text-xl">
-            Leftfield also works intensively with businesses to help secure signature customers in the target market. These marquee customers help validate the client&apos;s products in that regional market. We then help the client build upon these initial customer successes by developing ongoing strategic sales initiatives that can deliver significant revenues quickly.
+            Leftfield also works very closely with clients to help win those important first wins and signature customers in their target markets. These marquee customers help validate the client&apos;s products in that regional market. We then help the client build upon these initial customer successes by developing ongoing strategic sales initiatives that can deliver significant revenues quickly.
           </p>
 
         </div>
