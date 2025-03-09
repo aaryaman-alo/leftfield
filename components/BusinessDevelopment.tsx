@@ -49,7 +49,7 @@ const BusinessDevelopment = () => {
           </p>
 
           <p className="text-xl">
-            Leftfield works with businesses to help them establish strategic partners in a given market. These can include distributors with existing sales channels that can help our client quickly drive sales volume. They can also include manufacturing partners who act as contract manufacturers to locally produce a client&apos;s products.
+            Leftfield helps businesses establish strategic partners in a given market. These can include distributors with existing sales channels that can help our client quickly drive sales volume. They can also include manufacturing partners who act as contract manufacturers to locally produce a client&apos;s products.
           </p>
           
           <p className="text-xl">
